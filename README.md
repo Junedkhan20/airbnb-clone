@@ -68,7 +68,7 @@ Run Oxlint to check for code quality issues.
 
 ### Live Demo
 
-The application is deployed and available at: [https://airbnb-clone.vercel.app]([https://airbnb-clone.vercel.app](https://airbnb-clone-isksr0p8x-account-agent.vercel.app/))
+The application is deployed and available at: [https://airbnb-clone.vercel.app](https://airbnb-clone-isksr0p8x-account-agent.vercel.app/)
 
 ### Features Demonstrated
 
