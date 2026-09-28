@@ -2,6 +2,9 @@
 
 A pixel-perfect Airbnb clone built with React 19 and Vite, showcasing professional travel accommodations with a comprehensive booking platform experience.
 
+<img width="947" height="449" alt="Screenshot 2026-09-28 222044" src="https://github.com/user-attachments/assets/fb2f0b5b-28bd-41a0-82d4-74b93f767d85" />
+
+
 ## 🎯 Overview
 
 This project is a front-end implementation of an Airbnb-like property listing, matching the design at `https://www.airbnb.co.in/rooms/1633278091728979124`. It features responsive components, authentic UI patterns, and a clean development experience.
